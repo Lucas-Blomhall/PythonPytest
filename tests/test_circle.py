@@ -2,6 +2,8 @@ import math
 import pytest
 import source.shapes as shapes
 
+# I will continue a bit but I will ask Tobias if we will learn unit testing or automated testing
+
 
 class TestCircle:
 
